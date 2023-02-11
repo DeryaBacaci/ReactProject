@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: tomato;
+  text-align: center;
+}
+
+.app-title{
+  color: aqua;
+  padding: 1rem;
+  margin: 1rem;
+  font-size: 6rem;
+  font-family: 'Bigelow Rules', cursive;
+  letter-spacing: 5px;
+  text-shadow:4px 6px 10px #000;
+}
